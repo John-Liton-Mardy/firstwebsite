@@ -1,0 +1,12 @@
+.header{
+    height: 10px;
+    background-color: red;
+}
+.main{
+    height: 33.33%;
+    background-color: green;
+}
+.footer{
+    height: 33.33%;
+    background-color: blue;
+}
